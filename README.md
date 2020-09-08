@@ -6,3 +6,4 @@ Scrapes from [chiaki.site](https://chiaki.site/), which sorts animes by air date
 - python 3
 - beautifulsoup library
 - requests library
+- lxml library
