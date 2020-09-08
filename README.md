@@ -1,2 +1,3 @@
 # Anime_Watch_Order_Scraper
-Scrapes anime watch orders
+
+Scrapes from [chiaki.site](https://chiaki.site/), which sorts animes by air date
