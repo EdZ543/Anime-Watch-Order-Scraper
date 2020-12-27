@@ -1,4 +1,4 @@
-# Anime_Watch_Order_Scraper
+# Anime-Watch-Order-Scraper
 Scrapes from [chiaki.site](https://chiaki.site/), which sorts animes by air date
 
 # Requirements
