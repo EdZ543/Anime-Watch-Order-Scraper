@@ -1,3 +1,4 @@
+![anime watch order scraper preview](https://i.ibb.co/rc9TRXk/anime-watch-order-scraper-preview.png)\
 # Anime-Watch-Order-Scraper
 Scrapes from [chiaki.site](https://chiaki.site/), which sorts animes by air date
 
